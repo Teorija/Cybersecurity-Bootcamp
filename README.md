@@ -87,7 +87,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![TODO: Update the path with the name of your screenshot of docker ps output](C:\Users\n3\Documents\Cybersecurity-Bootcamp\Cybersecurity-Bootcamp\Elk\Diagrams\elk instance.png)
+![elk instance](https://user-images.githubusercontent.com/81877767/114459033-fc54de80-9bad-11eb-8e57-9ac1fcadff48.PNG)
 
 ### Target Machines & Beats
 
