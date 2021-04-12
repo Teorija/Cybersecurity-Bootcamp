@@ -5,7 +5,7 @@ Linux and Ansible Scripts from my Cybersecurity Bootcamp
 
 The files in this repository were used to configure the network depicted below.
 
-![](Cybersecurity-Bootcamp\Elk\Diagrams\Vm Diagram.png)
+![Vm Diagram](https://user-images.githubusercontent.com/81877767/114458878-ca437c80-9bad-11eb-98e9-7fd76c26470f.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the files may be used to install only certain pieces of it, such as Filebeat.
 
